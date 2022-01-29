@@ -24,7 +24,7 @@ best way to learn is to find something you interested in and dive in !
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> thèmes proposés
-* ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/Theme.pdf)
+* ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/theme.pdf)
 * ### [matrice fonctionnelle 1]()
 * ### [matrice fonctionnelle 2]()
 * ### [matrice fonctionnelle 3]()
