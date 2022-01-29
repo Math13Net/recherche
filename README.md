@@ -32,7 +32,6 @@ best way to learn is to find something you interested in and dive in !
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="ressource"></a> ressources possibles
-* ### [ressource](https://github.com/Math13Net/recherche/blob/main/Ressource.pdf)
 * ### [numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 * ### [5 min pour une idée](https://www.lebesgue.fr/en/5min)
 * ### [petitfuté](https://petitfuté.com/math-lycee/)
