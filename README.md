@@ -8,7 +8,7 @@ best way to learn is to find something you interested in and dive in !
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/recherche/blob/main/recherche.png" alt="Math TS" width="300" height="300" border="200" /></a>
 
-## 🌈 [consigne](#consigne)
+## 🌈 [math is fun](#consigne)
 
 ## 🔥 [thème](#theme)
 
@@ -19,7 +19,7 @@ best way to learn is to find something you interested in and dive in !
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="consigne"></a> consigne du travail de recherche
+## <a name="consigne"></a> math is fun : how to play
 * ### [consigne](https://github.com/Math13Net/recherche/blob/main/consigne.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
