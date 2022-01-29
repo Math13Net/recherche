@@ -1,5 +1,5 @@
 # recherche
-travail de recherche des élèves en math et informatique
+travail de recherche des élèves en math et informatique - lycée jean monnet 2021/2022
 
 best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
