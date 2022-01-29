@@ -22,17 +22,18 @@ best way to learn is to find something you interested in and dive in !
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> thèmes proposés
-* ### []()
+* ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/Theme.pdf)
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="ressource"></a> ressources possibles
-* ### site 1
-  * #### []()
+* ### [site ressource](https://github.com/Math13Net/recherche/blob/main/Ressource.pdf)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resultat"></a> travail des élèves
 * ### groupe 1 : thème traité ....
-  * #### []()
+  * #### [synthèse]()
+  * #### [programme pyhton]()
+  * #### ...
