@@ -1,6 +1,6 @@
 # recherche
 travail de recherche de la communauté de l'anneau<br/>
-lycée jean monnet - montpellier - 2021/2022
+lycée jean monnet - montpellier
 
 
 best way to learn is to find something you interested in and dive in !
