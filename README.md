@@ -1,5 +1,7 @@
 # recherche
-travail de recherche des élèves en math et informatique - lycée jean monnet - montpellier - 2021/2022
+travail de recherche de la communauté de l'anneau
+lycée jean monnet - montpellier - 2021/2022
+
 
 best way to learn is to find something you interested in and dive in !
 -------------------------------------------------------------------------------------------------------
