@@ -18,7 +18,7 @@ best way to learn is to find something you interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ## <a name="consigne"></a> consigne du travail de recherche
-* ### []()
+* ### [consigne](https://github.com/Math13Net/recherche/blob/main/Consigne.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> thèmes proposés
