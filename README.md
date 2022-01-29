@@ -35,7 +35,7 @@ best way to learn is to find something you interested in and dive in !
 * ### [numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 * ### [5 min pour une idée](https://www.lebesgue.fr/en/5min)
 * ### [petitfuté](https://petitfuté.com/math-lycee/)
-* ### [culture math lycée](https://culturemath.ens.fr/) - les ens on toujours été un peu coincé ... c'est bof (remarque d'1 centralien 😉 )
+* ### [culture math lycée](https://culturemath.ens.fr/) - les ens on toujours été coincé ... bof (remarque d'1 centralien 😉 )
 * ### [audimath](http://video.math.cnrs.fr/)
 * ### [science étonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)
 
