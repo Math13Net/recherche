@@ -12,7 +12,7 @@ best way to learn is to find something you interested in and dive in !
 
 ## 🔥 [thème](#theme)
 
-## 🚀 [ressouce](#ressource)
+## 🚀 [ressource](#ressource)
 
 ## 👋 [résultat](#resultat)
 
