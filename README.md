@@ -20,12 +20,14 @@ best way to learn is to find something you interested in and dive in !
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ## <a name="consigne"></a> consigne du travail de recherche
-* ### [consigne](https://github.com/Math13Net/recherche/blob/main/Consigne.pdf)
+* ### [consigne](https://github.com/Math13Net/recherche/blob/main/consigne.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> thèmes proposés
 * ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/Theme.pdf)
-
+* ### [matrice fonctionnelle 1]()
+* ### [matrice fonctionnelle 2]()
+* ### [matrice fonctionnelle 3]()
 
 
 ---------------------------------------------------------------------------------------------------------------------------
