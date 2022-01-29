@@ -32,7 +32,14 @@ best way to learn is to find something you interested in and dive in !
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="ressource"></a> ressources possibles
-* ### [site ressource](https://github.com/Math13Net/recherche/blob/main/Ressource.pdf)
+* ### [ressource](https://github.com/Math13Net/recherche/blob/main/Ressource.pdf)
+* ### [numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
+* ### [5 min pour une idée](https://www.lebesgue.fr/en/5min)
+* ### [petitfuté](https://petitfuté.com/math-lycee/)
+* ### [culture math lycée](https://culturemath.ens.fr/) - les ens on toujours été un peu coincé ... c'est bof (remarque d'1 centralien ;)) )
+* ### [audimath](http://video.math.cnrs.fr/)
+* ### [science étonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------
