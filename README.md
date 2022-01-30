@@ -20,11 +20,11 @@ best way to learn is to find something you interested in and dive in !
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="consigne"></a> math is fun
+## <a name="consigne"></a> math is fun : what do i have to do ?
 * ### [how to play](https://github.com/Math13Net/recherche/blob/main/math%20is%20fun.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="theme"></a> thèmes proposés
+## <a name="theme"></a> math is fun : where can i find an idea ?
 * ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/theme.pdf)
 * ### [matrice fonctionnelle 1]()
 * ### [matrice fonctionnelle 2]()
@@ -32,7 +32,7 @@ best way to learn is to find something you interested in and dive in !
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="ressource"></a> ressources possibles
+## <a name="ressource"></a> math is fun : may be i can get extra info here
 * ### [numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 * ### [5 min pour une idée](https://www.lebesgue.fr/en/5min)
 * ### [petitfuté](https://petitfuté.com/math-lycee/)
@@ -43,7 +43,7 @@ best way to learn is to find something you interested in and dive in !
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="resultat"></a> travail des élèves
+## <a name="resultat"></a> math is fun : he is what we have done
 * ### groupe 1 : thème traité ....
   * #### [synthèse]()
   * #### [programme pyhton]()
