@@ -20,8 +20,7 @@ best way to learn is to find something you interested in and dive in !
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-## <a name="consigne"></a> math is fun : what do i have to do ?
-* ### [how to play](https://github.com/Math13Net/recherche/blob/main/math%20is%20fun.pdf)
+## <a name="consigne"></a> [how to play](https://github.com/Math13Net/recherche/blob/main/math%20is%20fun.pdf)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> math is fun : where can i find an idea ?
