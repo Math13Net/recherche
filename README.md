@@ -11,34 +11,34 @@ best way to learn is to find something you interested in and dive in !
 
 ## 🌈 [à vous de jouer](https://github.com/Math13Net/recherche/blob/main/exploring%20math.pdf)
 
-## 🔥 [thème possible](#theme)
+## 🔥 [thèmes possibles](#theme)
 
-## 🚀 [ressource à disposition](#ressource)
+## 🚀 [ressources à disposition](#ressource)
 
-## 👋 [résultat de nos travaux : servez-vous !](#resultat)
+## 👋 [résultats de nos travaux : servez-vous !](#resultat)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="theme"></a> math is fun : where can i find an idea ?
-* ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/th%C3%A8me.pdf)
+## <a name="theme"></a> math is fun : let's go
+* ### [thèmes de recherche](https://github.com/Math13Net/recherche/blob/main/th%C3%A8me.pdf)
 * ### [matrice fonctionnelle 1]()
 * ### [matrice fonctionnelle 2]()
 * ### [matrice fonctionnelle 3]()
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="ressource"></a> math is fun : may be i can get extra info here
+## <a name="ressource"></a> extra info here
 * ### [numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 * ### [5 min pour une idée](https://www.lebesgue.fr/en/5min)
 * ### [petitfuté](https://petitfuté.com/math-lycee/)
-* ### [culture math lycée](https://culturemath.ens.fr/) - les ens on toujours été coincé ... bof (rq d'1 centralien 😉 )
 * ### [audimath](http://video.math.cnrs.fr/)
 * ### [science étonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)
+* ### [culture math](https://culturemath.ens.fr/)
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="resultat"></a> math is fun : he is what we have done
+## <a name="resultat"></a> et voilà notre boulot !
 * ### groupe 1 : thème traité ....
   * #### [synthèse]()
   * #### [programme pyhton]()
