@@ -11,11 +11,11 @@ best way to learn is to find something you interested in and dive in !
 
 ## 🌈 [à vous de jouer](https://github.com/Math13Net/recherche/blob/main/exploring%20math.pdf)
 
-## 🔥 [thèmes possibles](#theme)
+## 🔥 [thème possible](#theme)
 
-## 🚀 [ressources à disposition](#ressource)
+## 🚀 [ressource à disposition](#ressource)
 
-## 👋 [résultats de nos travaux : servez-vous !](#resultat)
+## 👋 [résultat de nos travaux : servez-vous !](#resultat)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
