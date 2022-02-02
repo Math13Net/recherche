@@ -20,7 +20,7 @@ best way to learn is to find something you interested in and dive in !
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> math is fun : let's go
-* ### [thèmes de recherche](https://github.com/Math13Net/recherche/blob/main/th%C3%A8me.pdf)
+* ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/th%C3%A8me.pdf)
 * ### [matrice fonctionnelle 1]()
 * ### [matrice fonctionnelle 2]()
 * ### [matrice fonctionnelle 3]()
