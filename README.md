@@ -9,7 +9,7 @@ best way to learn is to find something you interested in and dive in !
 <p><a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/recherche/blob/main/recherche.png" alt="recherche math et informatique" width="300" height="300" border="200" /></a> <img src="https://github.com/Math13Net/recherche/blob/main/qr-code.png" alt="math IT project" width="100" height="100" border="200" /><p>
 
 
-## 🌈 [à vous de jouer](https://github.com/Math13Net/recherche/blob/main/exploring%20math.pdf)
+## 🌈 [consigne de travail](https://github.com/Math13Net/recherche/blob/main/exploring%20math.pdf)
 
 ## 🔥 [thème possible](#theme)
 
