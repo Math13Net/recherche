@@ -39,5 +39,5 @@ best way to learn is to find something you're interested in and dive in !
 ## <a name="resultat"></a> et voilà notre boulot !
 * ### groupe 1 : thème traité ....
   * #### [synthèse]()
-  * #### [programme pyhton]()
+  * #### [programme python]()
   * #### ...
