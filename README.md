@@ -37,7 +37,16 @@ best way to learn is to find something you're interested in and dive in !
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resultat"></a> et voilà notre boulot !
-* ### groupe 1 : thème traité ....
+* ### groupe 1 : remplacement de l'homme par la machine
+  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G1%20-%20resume.pdf)
+  * #### [python : problème du sac à dos](https://github.com/Math13Net/recherche/blob/main/G1%20-%20experience.py)
+* ### groupe 2 : thème traité ....
   * #### [synthèse]()
-  * #### [programme python]()
-  * #### ...
+  * #### [python]()
+ * ### groupe 3 : thème traité ....
+  * #### [synthèse]()
+  * #### [python]()
+ * ### groupe 4 : thème traité ....
+  * #### [synthèse]()
+  * #### [python]()
+ 
