@@ -40,9 +40,8 @@ best way to learn is to find something you're interested in and dive in !
 * ### groupe 1 : remplacement de l'homme par la machine
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G1%20-%20resume.pdf)
   * #### [python : problème du sac à dos](https://github.com/Math13Net/recherche/blob/main/G1%20-%20experience.py)
-* ### groupe 2 : thème traité ....
-  * #### [synthèse]()
-  * #### [python]()
+* ### groupe 2 : la paradoxe de simpson
+  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G2%20-%20resume.pdf)
  * ### groupe 3 : thème traité ....
   * #### [synthèse]()
   * #### [python]()
