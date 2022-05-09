@@ -44,7 +44,9 @@ best way to learn is to find something you're interested in and dive in !
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G2%20-%20resume.pdf)
  * ### groupe 3 : monopoly
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G3%20-%20resume.odt)
- * ### groupe 4 : thème traité ....
+ * ### groupe 4 : loi de benford
   * #### [synthèse]()
   * #### [python]()
- 
+ * ### groupe 5 : thème traité ....
+  * #### [synthèse]()
+  * #### [python]() 
