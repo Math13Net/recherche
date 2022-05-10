@@ -42,13 +42,14 @@ best way to learn is to find something you're interested in and dive in !
   * #### [python : problème du sac à dos](https://github.com/Math13Net/recherche/blob/main/G1%20-%20experience.py)
 * ### groupe 2 : la paradoxe de simpson
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G2%20-%20resume.pdf)
- * ### groupe 3 : monopoly
+* ### groupe 3 : monopoly
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G3%20-%20resume.odt)
- * ### groupe 4 : loi de benford
+* ### groupe 4 : loi de benford
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G4%20-%20resume.pdf)
- * ### groupe 5 : le problème du monty hall
+* ### groupe 5 : le problème du monty hall
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G5%20-%20resume.pdf)
-  * ### groupe 6 : thème
+* ### groupe 6 : la conjecture de Collatz
   * #### [synthèse]()
- 
+* ### groupe 6 : thème
+  * #### [synthèse]() 
  
