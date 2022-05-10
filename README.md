@@ -51,5 +51,5 @@ best way to learn is to find something you're interested in and dive in !
 * ### groupe 6 : la conjecture de Collatz
   * #### [synthèse]()
 * ### groupe 6 : thème
-  * #### [synthèse]() 
- 
+  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G6%20-%20resume.pdf) 
+  * #### [python : experience](https://github.com/Math13Net/recherche/blob/main/G6%20-%20experience.py) 
