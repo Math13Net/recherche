@@ -53,7 +53,7 @@ best way to learn is to find something you're interested in and dive in !
   * #### [python : experience](https://github.com/Math13Net/recherche/blob/main/G6%20-%20experience.py) 
 * ### groupe 7 : loi de Benford
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G7%20-%20synth%C3%A8se.pdf)
-* ### groupe 8 : thème
-  * #### [synthèse]() 
+* ### groupe 8 : le plus court chemin d'un poit à un autre (n'est pas forcément la ligne droite)
+  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G8%20-%20resume.pdf) 
  
  
