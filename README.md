@@ -1,6 +1,5 @@
 # recherche de la communauté de l'anneau
 travail de recherche de la communauté de l'anneau<br/>
-lycée jean monnet - montpellier
 
 
 best way to learn is to find something you're interested in and dive in !
