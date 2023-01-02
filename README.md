@@ -16,7 +16,8 @@ best way to learn is to find something you're interested in and dive in !
 
 ## 👋 [résultat de nos travaux : servez-vous !](#resultat)
 
-
+## 👋 [anciens travaux](#ancien)
+ 
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> math is fun : let's go
 * ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/Th%C3%A8me.pdf)
@@ -43,7 +44,7 @@ best way to learn is to find something you're interested in and dive in !
  
 
 ---------------------------------------------------------------------------------------------------------------------------
-## <a name="resultat"></a> anciens travaux ...
+## <a name="ancien"></a> anciens travaux ...
 * ### groupe 1 : remplacement de l'homme par la machine
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G1%20-%20resume.pdf)
   * #### [python : problème du sac à dos](https://github.com/Math13Net/recherche/blob/main/G1%20-%20experience.py)
