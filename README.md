@@ -19,7 +19,6 @@ best way to learn is to find something you're interested in and dive in !
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> math is fun : let's go
 * ### [thème de recherche](https://github.com/Math13Net/recherche/blob/main/Th%C3%A8me.pdf)
-* ### [matrice fonctionnelle 1]()
 
 
 ---------------------------------------------------------------------------------------------------------------------------
