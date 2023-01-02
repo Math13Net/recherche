@@ -32,10 +32,18 @@ best way to learn is to find something you're interested in and dive in !
 * ### [science étonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)
 * ### [culture math](https://culturemath.ens.fr/)
 
-
-
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="resultat"></a> et voilà notre boulot !
+* ### groupe 1 : ...
+  * #### [synthèse]()
+  * #### [python : ...]()
+* ### groupe 2 : ...
+  * #### [synthèse]()
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------------
+## <a name="resultat"></a> anciens travaux ...
 * ### groupe 1 : remplacement de l'homme par la machine
   * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G1%20-%20resume.pdf)
   * #### [python : problème du sac à dos](https://github.com/Math13Net/recherche/blob/main/G1%20-%20experience.py)
