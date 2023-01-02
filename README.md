@@ -15,8 +15,6 @@ best way to learn is to find something you're interested in and dive in !
 ## 🚀 [ressource à disposition](#ressource)
 
 ## 👋 [résultat de nos travaux : servez-vous !](#resultat)
-
-## 👋 [anciens travaux](#ancien)
  
 ---------------------------------------------------------------------------------------------------------------------------
 ## <a name="theme"></a> math is fun : let's go
@@ -40,28 +38,5 @@ best way to learn is to find something you're interested in and dive in !
   * #### [python : ...]()
 * ### groupe 2 : ...
   * #### [synthèse]()
-
- 
-
----------------------------------------------------------------------------------------------------------------------------
-## <a name="ancien"></a> anciens travaux ...
-* ### groupe 1 : remplacement de l'homme par la machine
-  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G1%20-%20resume.pdf)
-  * #### [python : problème du sac à dos](https://github.com/Math13Net/recherche/blob/main/G1%20-%20experience.py)
-* ### groupe 2 : la paradoxe de simpson
-  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G2%20-%20resume.pdf)
-* ### groupe 3 : monopoly
-  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G3%20-%20resume.odt)
-* ### groupe 4 : loi de benford
-  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G4%20-%20resume.pdf)
-* ### groupe 5 : le problème du monty hall
-  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G5%20-%20resume.pdf)
-* ### groupe 6 : la conjecture de Collatz
-  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G6%20-%20resume.pdf) 
-  * #### [python : experience](https://github.com/Math13Net/recherche/blob/main/G6%20-%20experience.py) 
-* ### groupe 7 : loi de Benford
-  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G7%20-%20synth%C3%A8se.pdf)
-* ### groupe 8 : le plus court chemin d'un poit à un autre (n'est pas forcément la ligne droite)
-  * #### [synthèse](https://github.com/Math13Net/recherche/blob/main/G8%20-%20resume.pdf) 
  
  
