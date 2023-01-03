@@ -27,7 +27,6 @@ best way to learn is to find something you're interested in and dive in !
 * ### [ben sparks](https://www.youtube.com/c/SparksMaths)
 * ### [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 * ### [5 min pour une idée](https://www.lebesgue.fr/en/5min)
-* ### [petitfuté](https://petitfuté.com/math-lycee/)
 * ### [audimath](http://video.math.cnrs.fr/)
 * ### [science étonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)
 * ### [culture math](https://culturemath.ens.fr/)
