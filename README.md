@@ -25,6 +25,7 @@ best way to learn is to find something you're interested in and dive in !
 ## <a name="ressource"></a> extra info here
 * ### [numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 * ### [ben sparks](https://www.youtube.com/c/SparksMaths)
+* ### [matt parker](https://www.youtube.com/@standupmaths/about)
 * ### [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 * ### [5 min pour une idée](https://www.lebesgue.fr/en/5min)
 * ### [audimath](http://video.math.cnrs.fr/)
